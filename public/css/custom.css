@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    background-color: rgb(193, 231, 218);
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 10vh;
+    padding-top: 22px;
+    font-size: 18px;
+}
+
+.content{
+    width: 70%;
+    margin: auto;
+    /* background-color: aquamarine; */
+   
+}
+.header{
+    height: 15vh;
+}
+
+span{
+    width: 100px;
+    display: inline-block;
+}
+
+.navbar{
+    height: 8vh;
+}
